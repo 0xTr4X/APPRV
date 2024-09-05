@@ -1,82 +1,82 @@
 [
   {
     "name": "ADMIN",
-    "key": "maxxFIXED-6EE11C71AB-M4786==",
+    "key": "6EE11C71AB-M4786==",
     "expiry": "2024-12-12 00:00:00"
   },
   {
     "name": "uno",
-    "key": "unoxFIXED-6478B83CF6-M4786==",
+    "key": "6478B83CF6-M4786==",
     "expiry": "2024-09-09 23:59:00"
   },
   {
     "name": "Perseus",
-    "key": "liaerxFIXED-5D647BE827-M4786==",
+    "key": "5D647BE827-M4786==",
     "expiry": "2024-09-09 23:59:00"
   },
   {
     "name": "Denv",
-    "key": "denvxFIXED-43438886E3-M4786==",
+    "key": "43438886E3-M4786==",
     "expiry": "2024-10-17 23:59:00"
   },
   {
     "name": "Uno2",
-    "key": "unoxFIXED-14BCFE2DFA-M4786==",
+    "key": "14BCFE2DFA-M4786==",
     "expiry": "2024-09-29 23:59:00"
   },
   {
     "name": "Raizer",
-    "key": "raizerxFIXED-AD2FB2FB53-M4786==",
+    "key": "AD2FB2FB53-M4786==",
     "expiry": "2024-09-21 23:59:00"
   },
   {
     "name": "geo",
-    "key": "geoxFIXED-D57743C435-M4786==",
+    "key": "D57743C435-M4786==",
     "expiry": "2024-09-25 23:59:00"
   },
   {
     "name": "Yoru",
-    "key": "yoruxFIXED-6D01467D88-M4786==",
+    "key": "6D01467D88-M4786==",
     "expiry": "2024-10-26 23:59:00"
   },
   {
     "name": "axl",
-    "key": "axl2xFIXED-B3E202AB7E-M4786==",
+    "key": "B3E202AB7E-M4786==",
     "expiry": "2024-10-26 23:59:00"
   },
   {
     "name": "Tine",
-    "key": "tinexFIXED-75C13C937C-M4786==",
+    "key": "75C13C937C-M4786==",
     "expiry": "2024-09-26 23:59:00"
   },
   {
     "name": "vione",
-    "key": "VionexFIXED-FF76D3A241-M4786==",
+    "key": "FF76D3A241-M4786==",
     "expiry": "2024-09-27 23:59:00"
   },
   {
     "name": "Yoru2",
-    "key": "yoru22xFIXED-4733100510-M4786==",
+    "key": "4733100510-M4786==",
     "expiry": "2024-09-27 23:59:00"
   },
   {
     "name": "yoru3",
-    "key": "yoru3xFIXED-4C7D480F73-M4786==",
+    "key": "4C7D480F73-M4786==",
     "expiry": "2024-09-28 23:59:00"
   },
   {
     "name": "Uno",
-    "key": "notunoxFIXED-6536D8C0A0-M4786==",
+    "key": "6536D8C0A0-M4786==",
     "expiry": "2024-09-28 23:59:00"
   },
   {
     "name": "Kiru",
-    "key": "kiruxFIXED-708B611657-M4786==",
+    "key": "708B611657-M4786==",
     "expiry": "2024-10-26 23:59:00"
   },
   {
     "name": "Marsh",
-    "key": "mrshxFIXED-347B399049-M4786==",
+    "key": "347B399049-M4786==",
     "expiry": "2024-10-04 23:59:00"
   }
 ]
