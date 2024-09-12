@@ -16,13 +16,13 @@
   },
   {
     "name": "Denv",
-    "key": "paused",
-    "expiry": "15days"
+    "key": "denv2xFIXED-5CA9904B20-M4786==",
+    "expiry": "2024-09-27 00:00:00"
   },
   {
     "name": "Denv2",
-    "key": "paused",
-    "expiry": "14days"
+    "key": "denv1xFIXED-43438886E3-M4786==",
+    "expiry": "2024-09-26 00:00:00"
   },
   {
     "name": "Uno2",
