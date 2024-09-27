@@ -83,5 +83,10 @@
     "name": "Marsh",
     "key": "paused",
     "expiry": "44 days"
+  },
+  {
+    "name": "Haku",
+    "key": "HAKUxFIXED-BC90F19FC5-M4786==",
+    "expiry": "2024-10-02 00:00:00"
   }
 ]
